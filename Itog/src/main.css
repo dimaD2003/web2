@@ -13,64 +13,6 @@ a{
 
 
 
-/* .menu {
-    margin: 0px 50px;
-    border: 1px solid rebeccapurple;
-    overflow: hidden;
-  
-}
-.menu div:nth-child(2){
-    font-weight:900;
-    font-size: 1vw;
-    
-}
-
-.menu_logo p {
-    display: block;
-    font-size: 1.5vw;
-    font-family:'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
-text-align: center;
-margin: 0 ;
-
-}
-.title{
-    background: #524d4d;
-}
-
-.menu_logo  {
-    border: 1px solid rgb(92, 37, 159);
-    background-color: #5e5858;
-    width: 500px;
-    margin-left: 20px;
-    margin-bottom: 10px;
-    margin-top: 10px;
-    display: block;
-}
-.menu_logo img{
-    width: 100px;
-    border: 1px solid red;
-}
-.menu_info {
-    display: inline;
-    float: right;
-    background: #5a5454;
-    border: 1px solid rgb(39, 159, 37);
-    height: 100px;
-
-
-
-}
-.menu_info a{
-margin: 0px 30px;  
-font-size: 1.5vw;
-border: 1px solid rgb(95, 23, 149);
-background-color: #b4a9a9;
-padding:5px 25px 5px 5px ;
-
-}
-.menu_info a.active{
-background-color: rgb(196, 84, 84);
-} */
 
 
 .menu{
